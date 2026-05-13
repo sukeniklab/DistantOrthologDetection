@@ -12,6 +12,6 @@ Repository Structure:
 └── 4_FoldseekFiltering
 
 ```
-Directories within this repository are numbered in order inwhich they should be completed. 
+Directories within this repository are numbered in order in which they should be completed. 
 
 ## Please note that this pipeline is in active development! We are working to make this more accessible and interactive via a ColabNotebook ## 
